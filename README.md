@@ -4,7 +4,6 @@
 
 I am a Computer Science student. My interests include cloud computing, DevOps, data engineering, and software development. I am always excited to learn new technologies and apply them to real-world problems.
 
-- 🔗 [My LinkedIn](https://www.linkedin.com/in/mohamed-k-sabaa-97a4aa224/)
 - ✉️ mohamedkamal159211@gmail.com
 - 📚 Learning **Cloud Architecture** (AWS & GCP)
 
