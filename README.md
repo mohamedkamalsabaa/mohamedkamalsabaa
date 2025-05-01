@@ -2,8 +2,6 @@
 
 ## 🎓 Computer Science Student
 
-I am a Computer Science student. My interests include cloud computing, DevOps, data engineering, and software development. I am always excited to learn new technologies and apply them to real-world problems.
-
 - ✉️ mohamedkamal159211@gmail.com
 - 📚 Learning **Cloud Architecture** (AWS & GCP)
 
