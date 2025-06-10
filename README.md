@@ -1,6 +1,6 @@
-# Hi 👋 My name is Mohamed Kamal Sabaa
+# Hi 👋 I'm Mohamed Kamal Sabaa
 
-## 🎓 Computer Science Student
+## 🎓 CS Student
 
 - ✉️ mohamedkamal159211@gmail.com
 ### 💡 Socials:
