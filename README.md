@@ -1,4 +1,4 @@
-# Hi 👋 I'm Mohamed Kamal Sabaa
+# Hi 👋 I'm Mohamed Sabaa
 
 ## 🎓 CS Student
 
